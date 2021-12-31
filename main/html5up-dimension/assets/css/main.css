@@ -109,6 +109,36 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+/* Branding */
+
+#header .logo {
+	display: block;
+	border-bottom: 0;
+	color: inherit;
+	font-weight: 900;
+	letter-spacing: 0.35em;
+	margin: 0 0 2.5em 0;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline-block;
+}
+
+	#header .logo > * {
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	#header .logo .brand {
+		margin-right: 0em;
+		margin-bottom: 0.3em;
+	}
+
+		#header .logo .brand img {
+			display: block;
+			width: 5.4em;
+			height: 5.4em;
+		}
+
 /* Type */
 
 	html {
