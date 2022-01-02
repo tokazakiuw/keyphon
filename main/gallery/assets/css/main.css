@@ -2889,8 +2889,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 4.5em;
+					height: 4.5em;
 				}
 
 		#header nav {
@@ -3183,6 +3183,21 @@ input, select, textarea {
 		}
 
 /* Main */
+
+	#main .inner h1 {
+		text-align: center;
+		font-weight: 100px;
+		text-transform: uppercase;
+		letter-spacing: 0.04em;
+		margin-top: 0.8em;
+	}
+
+	#main .inner p {
+		text-align: center;
+		font-weight: 100px;
+		text-transform: none;
+		letter-spacing: 0.04em;
+	}
 
 	#main {
 		padding: 0em 0 6em 0 ;
