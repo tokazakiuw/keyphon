@@ -129,14 +129,14 @@ input, select, textarea {
 	}
 
 	#header .logo .brand {
-		margin-right: 0em;
-		margin-bottom: 0.6em;
+		margin-right: 1em;
+		margin-bottom: 2em;
 	}
 
 		#header .logo .brand img {
 			display: block;
-			width: 5.2em;
-			height: 5.2em;
+			width: 5.15em;
+			height: 5.15em;
 		}
 
 		@media screen and (max-width: 736px) {
@@ -1208,7 +1208,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("../../images/photo-1523821741446-edb2b68bb7a0.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
