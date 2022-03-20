@@ -129,22 +129,22 @@ input, select, textarea {
 	}
 
 	#header .logo .brand {
-		margin-right: 1em;
-		margin-bottom: 2em;
+		margin-right: 3em;
+		margin-bottom: 3em;
 	}
 
 		#header .logo .brand img {
 			display: block;
-			width: 5.15em;
-			height: 5.15em;
+			width: 5.4em;
+			height: 5.4em;
 		}
 
 		@media screen and (max-width: 736px) {
 
 			#header .logo .brand img {
 				display: block;
-				width: 4.2em;
-				height: 4.2em;
+				width: 4.4em;
+				height: 4.4em;
 			}
 
 		}
@@ -1208,7 +1208,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/photo-1523821741446-edb2b68bb7a0.jpg");
+			background-image: url("../../images/dark-minimal-wallpaper.png");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -1341,8 +1341,8 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
+			width: 5.7rem;
+			height: 5.7rem;
 			line-height: 5.5rem;
 			border: solid 4px #ffffff;
 			border-radius: 100%;
