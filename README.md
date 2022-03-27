@@ -33,10 +33,10 @@
     <img src="main/home/images/KP2.png" alt="Logo" width="300" height="300">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Keyphon</h3>
 
   <p align="center">
-    project_description
+    A keyboard company
     <br />
     <a href="https://github.com/tokazakiuw/keyphon"><strong>Explore the docs »</strong></a>
     <br />
@@ -186,9 +186,15 @@ Project Link: [https://github.com/tokazakiuw/keyphon](https://github.com/tokazak
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [README Template](https://github.com/othneildrew/Best-README-Template)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
