@@ -19,7 +19,7 @@
 -->
 
 [![Status][website-shield]][website-url]
-[![Email][email-shield]][email-url]
+[![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
