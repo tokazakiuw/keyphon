@@ -21,6 +21,7 @@
 [![Status][website-shield]][website-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Gmail][gmail-shield]][gmail-url]
 
 
 
@@ -154,4 +155,6 @@ Project Link: [https://github.com/tokazakiuw/keyphon](https://github.com/tokazak
 [instagram-url]: https://www.instagram.com/keyphon/?hl=en
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tyokazaki
+[gmail-shield]: https://img.shields.io/badge/-Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
+[gmail-url]: mailto:keyphon@gmail.com
 [product-screenshot]: images/screenshot.png
