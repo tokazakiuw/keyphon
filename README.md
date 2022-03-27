@@ -19,7 +19,9 @@
 -->
 
 [![Status][website-shield]][website-url]
+[![Github][github-shield]][github-url]
 [![Instagram][instagram-shield]][instagram-url]
+[![Youtube][youtube-shield]][youtube-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 
@@ -151,8 +153,12 @@ Project Link: [https://github.com/tokazakiuw/keyphon](https://github.com/tokazak
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [website-shield]: https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fgithub.com%2Ftokazakiuw%2Fkeyphon
 [website-url]: https://github.com/tokazakiuw/keyphon
+[github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
+[github-url]: https://github.com/tokazakiuw
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
 [instagram-url]: https://www.instagram.com/keyphon/?hl=en
+[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=for-the-badge&logo=youtube&colorB=555
+[youtube-url]: https://www.youtube.com/keyphon/?hl=en
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tyokazaki
 [gmail-shield]: https://img.shields.io/badge/-Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555
