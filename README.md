@@ -151,7 +151,7 @@ Project Link: [https://github.com/tokazakiuw/keyphon](https://github.com/tokazak
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[website-shield]: https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkeyphon.com
+[website-shield]: https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fkeyphon.com
 [website-url]: https://keyphon.com
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
 [github-url]: https://github.com/tokazakiuw
