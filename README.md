@@ -91,7 +91,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
+* [HTML]()
 * [React.js](https://reactjs.org/)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
@@ -186,15 +186,9 @@ Project Link: [https://github.com/tokazakiuw/keyphon](https://github.com/tokazak
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [README Template](https://github.com/othneildrew/Best-README-Template)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -213,5 +207,5 @@ Project Link: [https://github.com/tokazakiuw/keyphon](https://github.com/tokazak
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/tokazakiuw/keyphon/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/tyokazaki
 [product-screenshot]: images/screenshot.png
