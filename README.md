@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tokazakiuw/keyphon">
-    <img src="main/home/images/KP2.png" alt="Logo" width="80" height="80">
+    <img src="main/home/images/KP2.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">project_title</h3>
