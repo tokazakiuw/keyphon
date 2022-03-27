@@ -91,12 +91,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [HTML]()
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
+* [HTML]
+* [CSS]
+* [SASS](https://sass-lang.com/)
+* [JavaScript](https://www.javascript.com/)
+* [PHP](https://www.javascript.com/)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
